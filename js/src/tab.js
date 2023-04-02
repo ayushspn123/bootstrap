@@ -28,7 +28,7 @@ const EVENT_LOAD_DATA_API = `load${EVENT_KEY}`
 
 const ARROW_LEFT_KEY = 'ArrowLeft'
 const ARROW_RIGHT_KEY = 'ArrowRight'
-const ARROW_UP_KEY = 'ArrowUp'
+const ARROW_UP_KEY = 'Arrowup'
 const ARROW_DOWN_KEY = 'ArrowDown'
 
 const CLASS_NAME_ACTIVE = 'active'
